@@ -9,7 +9,6 @@
         <li><strong>React:</strong> Библиотека для создания пользовательских интерфейсов.</li>
         <li><strong>React Router:</strong> Библиотека для маршрутизации в React-приложениях.</li>
         <li><strong>Axios:</strong> Библиотека для выполнения HTTP-запросов.</li>
-        <li><strong>GitHub Pages:</strong> Сервис для развертывания статических сайтов.</li>
     </ul>
 </div>
 <h2>Установка Проекта</h2>
