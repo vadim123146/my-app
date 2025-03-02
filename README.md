@@ -12,3 +12,22 @@
         <li><strong>GitHub Pages:</strong> Сервис для развертывания статических сайтов.</li>
     </ul>
 </div>
+<h2>Установка Проекта</h2>
+    <p>Чтобы установить и запустить этот проект на вашем компьютере, следуйте этим шагам:</p>
+    <ol>
+        <li><strong>Клонирование репозитория:</strong>
+            <div class="code">
+                git clone https://github.com/your-username/your-repo-name.git<br>
+                cd your-repo-name
+            </div>
+        </li>
+        <li><strong>Установка зависимостей:</strong>
+            <div class="code">
+                npm install
+            </div>
+        </li>
+        <li><strong>Запуск приложения:</strong>
+            <div class="code">
+                npm start
+            </div>
+        </li>
